@@ -1,0 +1,8 @@
+# Install inside the conda env, never globally:
+#   conda activate .claude-agent-sdk-youtube-env && pip install -r requirements.txt
+
+claude-agent-sdk
+jupyter
+ipykernel
+python-dotenv
+httpx
